@@ -21,4 +21,3 @@
 </p>
 
 # Deep-Learning-Engineer-Roadmap
-
